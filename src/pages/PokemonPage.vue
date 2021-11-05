@@ -87,6 +87,15 @@ export default {
 </script>
 <style scoped>
 .show-answer{
-    text-align: center;
+    display: block;
+    padding: 1rem;
+   
 }
+button{
+    border-radius: 4px;
+    width: 10rem;
+    height: 2rem;
+    cursor: pointer;
+}
+
 </style>
